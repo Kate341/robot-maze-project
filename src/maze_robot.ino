@@ -3,14 +3,6 @@
 ESP32 MAZE SOLVING ROBOT
 Author: Tokhtamyssova Amina
 
-Description:
-Autonomous maze-solving robot based on ESP32.
-The robot uses:
-- ultrasonic obstacle detection,
-- servo-based directional scanning,
-- finite state machine navigation,
-- differential motor control.
-
 Platform:
 - ESP32
 - Arduino IDE
