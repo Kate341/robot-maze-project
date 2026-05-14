@@ -1,4 +1,4 @@
-<h1 div align = "center"> (☞ﾟヮﾟ)☞ Useful Links ☜(ﾟヮﾟ☜) </h1>
+<h1 div align = "center"> (ヘ･_･)ヘ┳━┳ Useful Links (╯°□°）╯︵ ┻━┻ </h1>
 
 🔧🛠⚙🔧 Assembly guide for the robot (official documentation):  
 https://wiki.alashed.kz/index.html  
