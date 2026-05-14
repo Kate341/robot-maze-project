@@ -10,7 +10,6 @@ The robot uses:
 
 ---
 <h3 div align = "center"> Project Overview </h3>
----
 
 This project implements an autonomous robotic platform capable of navigating through a maze environment using real-time sensor data and embedded control algorithms.
 
@@ -23,7 +22,6 @@ The robot scans the environment using an ultrasonic sensor mounted on a servo mo
 
 ---
 <h3 div align = "center"> Hardware Components </h3>
----
 
 Main hardware used in the project:
 
@@ -40,7 +38,6 @@ Unlike the standard Arduino Uno version of the Robot Phobo kit, this implementat
 
 ---
 <h3 div align = "center"> Software Environment </h3>
----
 
 - C++
 - Arduino IDE
@@ -49,7 +46,6 @@ Unlike the standard Arduino Uno version of the Robot Phobo kit, this implementat
 
 ---
 <h3 div align = "center"> Navigation Algorithm </h3>
----
 
 The robot follows the navigation priority:
 
@@ -62,7 +58,6 @@ This allows systematic maze exploration.
 
 ---
 <h3 div align = "center"> Finite State Machine Architecture </h3>
----
 
 The program is organized using a finite state machine (FSM).
 
@@ -81,7 +76,6 @@ This architecture improves:
 
 ---
 <h3 div align = "center"> Ultrasonic Scanning System </h3>
----
 
 The ultrasonic sensor is mounted on a servo motor for directional scanning.
 
@@ -94,7 +88,6 @@ To improve measurement stability, multiple ultrasonic readings are averaged to r
 
 ---
 <h3 div align = "center"> Motor Control </h3>
----
 
 The robot uses differential drive control for:
 - forward movement,
@@ -107,7 +100,6 @@ Movement is controlled through GPIO pins connected to the motor driver.
 
 ---
 <h3 div align = "center"> Educational Value </h3>
----
 
 This project demonstrates practical experience in:
 - embedded C++ programming,
@@ -120,7 +112,6 @@ This project demonstrates practical experience in:
 
 ---
 <h3 div align = "center"> Project Structure </h3>
----
 
 ```text
 src/        → Arduino source code
@@ -130,7 +121,6 @@ images/     → Robot photos and diagrams
 
 ---
 <h3 div align = "center"> Future Improvements </h3>
----
 
 Possible future extensions:
 - PID motor speed control
@@ -142,6 +132,5 @@ Possible future extensions:
 
 ---
 <h3 align = "center"> Conclusion </h3>
----
 
 This project demonstrates the implementation of an autonomous embedded robotic system using ESP32 technology, combining sensor processing, motor control, and autonomous navigation algorithms in a real-world robotics application.
