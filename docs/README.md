@@ -116,7 +116,9 @@ This project demonstrates practical experience in:
 ```text
 src/        → Arduino source code
 docs/       → Documentation
-images/     → Robot photos and diagrams
+images/     → Robot photos
+video/      → Robot video
+connection diagrams/     → Robot connection diagrams
 ```
 
 ---
